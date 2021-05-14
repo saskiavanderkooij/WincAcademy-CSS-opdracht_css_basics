@@ -1,0 +1,46 @@
+.artikel {
+    margin:5px;
+    border: 1px solid darkseagreen;
+}
+
+.content {
+    padding-left: 10px;
+    padding-right:10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkseagreen;
+}
+
+.header {
+    background-color: darkseagreen;
+    border: 1px solid gray;
+    color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 5px;
+    text-align: center;
+}
+
+.link {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkslategray;
+}
+
+.link-home {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkslategray;
+    float:right;
+}
+
+.link-tekst {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkseagreen;
+}
+
+.footer {
+    color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+
+
